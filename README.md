@@ -1,2 +1,2 @@
 # SRKG-START
-SRKG corp
+SRKG corp is a startup company.
